@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
 
     int sum = a+b;
 
-    cout<<sum<<endl;
+    cout<<"The Sum is "<<sum<<endl;
 
     return 0;
 }
